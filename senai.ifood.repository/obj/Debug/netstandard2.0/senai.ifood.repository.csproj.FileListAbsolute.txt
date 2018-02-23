@@ -1,0 +1,10 @@
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\bin\Debug\netstandard2.0\senai.ifood.repository.deps.json
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\bin\Debug\netstandard2.0\senai.ifood.repository.dll
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\bin\Debug\netstandard2.0\senai.ifood.repository.pdb
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\bin\Debug\netstandard2.0\senai.ifood.domain.dll
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\bin\Debug\netstandard2.0\senai.ifood.domain.pdb
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\obj\Debug\netstandard2.0\senai.ifood.repository.csproj.CoreCompileInputs.cache
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\obj\Debug\netstandard2.0\senai.ifood.repository.AssemblyInfoInputs.cache
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\obj\Debug\netstandard2.0\senai.ifood.repository.AssemblyInfo.cs
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\obj\Debug\netstandard2.0\senai.ifood.repository.dll
+C:\Users\fernando.henrique\backend\senai.ifood.solution\senai.ifood.repository\obj\Debug\netstandard2.0\senai.ifood.repository.pdb
